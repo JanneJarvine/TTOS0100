@@ -1,4 +1,7 @@
 # TTOS0100
+
+[Wikiin](https://github.com/JanneJarvine/TTOS0100/wiki)
+
 TTOS0100-Ohjelmistosuunnittelu-ja-testaus
 [github-ohjeita](https://guides.github.com/features/mastering-markdown/)
 //account.github.io
