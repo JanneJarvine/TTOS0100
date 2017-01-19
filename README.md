@@ -1,5 +1,7 @@
 # TTOS0100
 TTOS0100-Ohjelmistosuunnittelu-ja-testaus
+[github-ohjeita](https://guides.github.com/features/mastering-markdown/)
+//account.github.io
 
 ![](https://i0.wp.com/laughingsquid.com/wp-content/uploads/0367.jpg?resize=525%2C300&ssl=1)
 
